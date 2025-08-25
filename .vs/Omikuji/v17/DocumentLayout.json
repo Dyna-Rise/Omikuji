@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01.Kunren\\000_202508\\\u6388\u696D\u8CC7\u6599\\CS\\Projects\\Omikuji\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA0E40E-83FC-4E84-8EE9-736B4A921EBE}|Omikuji\\Omikuji.csproj|d:\\01.kunren\\000_202508\\\u6388\u696D\u8CC7\u6599\\cs\\projects\\omikuji\\omikuji\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA0E40E-83FC-4E84-8EE9-736B4A921EBE}|Omikuji\\Omikuji.csproj|solutionrelative:omikuji\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01.Kunren\\000_202508\\\u6388\u696D\u8CC7\u6599\\CS\\Projects\\Omikuji\\Omikuji\\Program.cs",
+              "RelativeDocumentMoniker": "Omikuji\\Program.cs",
+              "ToolTip": "D:\\01.Kunren\\000_202508\\\u6388\u696D\u8CC7\u6599\\CS\\Projects\\Omikuji\\Omikuji\\Program.cs",
+              "RelativeToolTip": "Omikuji\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:11:27.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
