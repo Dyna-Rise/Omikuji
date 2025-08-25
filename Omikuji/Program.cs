@@ -34,3 +34,18 @@ for (int i = 0;i < count.Length ;i++)
 {
     Console.WriteLine(omikuji[i] + "は" + count[i] + "回ひきました");
 }
+
+
+//論理型
+bool end = false; //終わりフラグ
+
+//いつ終わりがくるかわからないループ
+while (end == false) //終わりのフラグがこない間は繰り返す
+{
+    int dice = rand.Next(1, 7); //1～6のランダム
+    if(dice == 1)
+    {
+        end = true;
+    }
+    Console.WriteLine("つづく");
+}
