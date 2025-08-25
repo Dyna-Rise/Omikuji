@@ -1,0 +1,15 @@
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.exe
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.deps.json
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.runtimeconfig.json
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.dll
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\bin\Debug\net8.0\Omikuji.pdb
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.AssemblyInfoInputs.cache
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.AssemblyInfo.cs
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.csproj.CoreCompileInputs.cache
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.sourcelink.json
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.dll
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\refint\Omikuji.dll
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.pdb
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\Omikuji.genruntimeconfig.cache
+D:\01.Kunren\000_202508\授業資料\CS\Projects\Omikuji\Omikuji\obj\Debug\net8.0\ref\Omikuji.dll
