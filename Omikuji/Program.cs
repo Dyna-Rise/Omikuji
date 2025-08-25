@@ -20,9 +20,17 @@ for (int i = 0; i < 100; i++)
 
     //result番目の値を配列からひっぱってきてコンソールに出す
     Console.WriteLine(omikuji[result]);
+
+    count[result]++; //resultで引いた結果の番号をカウント
 }
 
 //for (int i = 0; i < 100; i++)
 //{
 //    Console.WriteLine("今" + i + "回目の繰り返しです");
 //}
+
+//配列countの結果を順番に発表
+for (int i = 0;i < count.Length ;i++)
+{
+    Console.WriteLine(omikuji[i] + "は" + count[i] + "回ひきました");
+}
